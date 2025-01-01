@@ -63,5 +63,5 @@ The dataset contains the following columns:
 ## How to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/social-media-analysis.git
+   git clone [https://github.com/your-username/social-media-analysis.git](https://github.com/Meghana157/Social-media-usage-and-engagment-analysis)
    cd social-media-analysis
